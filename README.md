@@ -12,7 +12,7 @@
 
 ##Sergeant
 
-![image](http://www.lairware.com/songsergeant/manual/img/sergeant.gif{width=40px height=40px}) -->
+![image](https://i.gyazo.com/cf234f89e7e330f1514d7da8916fd5b1.png) -->
 ![image](https://d2ujflorbtfzji.cloudfront.net/key-image/c98988ee-43a5-4a48-8a66-4dff51cb93ee.png)
 +
 ![image](https://a.allegroimg.com/s128/016bbd/7b3b67c84537b58e315d61cb10ea)
