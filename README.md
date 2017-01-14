@@ -10,9 +10,9 @@
 +
 ![image](https://hydra-media.cursecdn.com/h1z1.gamepedia.com/thumb/b/b8/Skull_Full_Face_Respirator.png/128px-Skull_Full_Face_Respirator.png?version=b2a841e440b39a2fec7a65a806891972)
 
-
-![image](https://i.gyazo.com/4bb4544aedfcf9805e48b9e33761e66a.png?style=centerme)
-
+<p align="center">
+![image](https://i.gyazo.com/4bb4544aedfcf9805e48b9e33761e66a.png)
+</p>
 
 ##Sergeant
 
@@ -27,14 +27,8 @@
 +
 ![image](http://www.fmagazin.ru/_files/editor/images/prod/128/icom/icom_ic_f70t.jpg)
 
-->![image](https://i.gyazo.com/4c3415f2340bb7c7573206fca7ddbe3d.png)<-
 
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  ![image](https://i.gyazo.com/4c3415f2340bb7c7573206fca7ddbe3d.png)
 </p>
