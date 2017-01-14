@@ -1,5 +1,5 @@
 # Army Armament
-![image](http://previewcf.turbosquid.com/Preview/2014/05/18__01_00_00/SoldierB_MC_White_Cam06_fr20.jpgcf3b3f3e-9a6c-454f-bf2d-7391bcc4eff1Res200.jpg) -->
+![image](https://i.gyazo.com/ea93d7ef39578596d74f04598a386e4a.png) -->
 ![image](http://vignette1.wikia.nocookie.net/h1z1/images/e/e7/AK47.png/revision/latest?cb=20151027111224&path-prefix=ru)
 +
 ![image](https://a.allegroimg.com/s128/016bbd/7b3b67c84537b58e315d61cb10ea)
