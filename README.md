@@ -46,3 +46,19 @@
 <p align="center">
 <img src="https://i.gyazo.com/f677fae1f7cb80ca281019367287eeaa.png">
 </p>
+
+## Kombat
+
+![image](https://i.gyazo.com/1d039bdf9ac4f965c5df0ffc04fc130c.png) -->
+![image](http://vignette2.wikia.nocookie.net/callofduty/images/4/46/TT-33_menu_icon_WaW.png/revision/latest?cb=20120122072354)
++
+![image](https://i.gyazo.com/482e16da630ecb0efc08ed833d535864.png)
++
+![image](https://hydra-media.cursecdn.com/h1z1.gamepedia.com/thumb/b/b8/Skull_Full_Face_Respirator.png/128px-Skull_Full_Face_Respirator.png?version=b2a841e440b39a2fec7a65a806891972)
++
+![image](https://i.gyazo.com/6849cbe79ba8ba181a24f9f42fee69e0.png)
+
+
+<p align="center">
+<img src="https://i.gyazo.com/1b2f09ca40846ff72e5e51c7acd27445.png">
+</p>
