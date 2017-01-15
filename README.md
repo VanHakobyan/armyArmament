@@ -1,6 +1,12 @@
 # Army Armament
 
-## Soldier
+<p align="center">
+<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Armmil_zinanshan.jpg/150px-Armmil_zinanshan.jpg">
+</p>
+
+The Armed Forces of the Republic of Armenia comprise two services: the Army, and the Air Force and Air Defense. It was partially formed out of the former Soviet Army forces stationed in the Armenian SSR (mostly units of the 7th Guards Army of the Transcaucasian Military District). Being a landlocked country, Armenia has no navy.
+
+### Soldier
 ![image](https://i.gyazo.com/1ed68e17a8e69a5fe7aa0d01d9ce9849.png) -->
 ![image](http://vignette1.wikia.nocookie.net/h1z1/images/e/e7/AK47.png/revision/latest?cb=20151027111224&path-prefix=ru)
 +
@@ -14,7 +20,7 @@
 <img src="https://i.gyazo.com/4bb4544aedfcf9805e48b9e33761e66a.png">
 </p>
 
-## Sergeant
+### Sergeant
 
 ![image](https://i.gyazo.com/cf234f89e7e330f1514d7da8916fd5b1.png) -->
 ![image](https://d2ujflorbtfzji.cloudfront.net/key-image/c98988ee-43a5-4a48-8a66-4dff51cb93ee.png)
@@ -31,7 +37,7 @@
 <img src="https://i.gyazo.com/4c3415f2340bb7c7573206fca7ddbe3d.png">
 </p>
 
-## PlatoonCommander
+### PlatoonCommander
 
 ![image](https://i.gyazo.com/9f3856ba50a7d51467e80f79aec1de87.png) -->
 ![image](https://i.gyazo.com/26089051d3ad0c665a21949ee4180280.png)
@@ -47,7 +53,7 @@
 <img src="https://i.gyazo.com/f677fae1f7cb80ca281019367287eeaa.png">
 </p>
 
-## Kombat
+### Kombat
 
 ![image](https://i.gyazo.com/1d039bdf9ac4f965c5df0ffc04fc130c.png) -->
 ![image](http://vignette2.wikia.nocookie.net/callofduty/images/4/46/TT-33_menu_icon_WaW.png/revision/latest?cb=20120122072354)
@@ -62,3 +68,11 @@
 <p align="center">
 <img src="https://i.gyazo.com/1b2f09ca40846ff72e5e51c7acd27445.png">
 </p>
+
+### Air Defense
+
+The Armenian Air Defense is the anti-aircraft branch of the Armed Forces of Armenia.
+In late December 2010, the Armenian Defense Minister, Seyran Ohanyan, officially acknowledged that the army are equipped with the Russian-made S-300 surface-to-air missiles. 
+
+
+
