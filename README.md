@@ -5,7 +5,7 @@
 </p>
 
 The Armed Forces of the Republic of Armenia comprise two services: the Army, and the Air Force and Air Defense. It was partially formed out of the former Soviet Army forces stationed in the Armenian SSR (mostly units of the 7th Guards Army of the Transcaucasian Military District). Being a landlocked country, Armenia has no navy.
-
+<br>
 ### Soldier
 ![image](https://i.gyazo.com/1ed68e17a8e69a5fe7aa0d01d9ce9849.png) -->
 ![image](http://vignette1.wikia.nocookie.net/h1z1/images/e/e7/AK47.png/revision/latest?cb=20151027111224&path-prefix=ru)
@@ -19,7 +19,7 @@ The Armed Forces of the Republic of Armenia comprise two services: the Army, and
 <p align="center">
 <img src="https://i.gyazo.com/4bb4544aedfcf9805e48b9e33761e66a.png">
 </p>
-
+<br>
 ### Sergeant
 
 ![image](https://i.gyazo.com/cf234f89e7e330f1514d7da8916fd5b1.png) -->
@@ -36,7 +36,7 @@ The Armed Forces of the Republic of Armenia comprise two services: the Army, and
 <p align="center">
 <img src="https://i.gyazo.com/4c3415f2340bb7c7573206fca7ddbe3d.png">
 </p>
-
+<br>
 ### PlatoonCommander
 
 ![image](https://i.gyazo.com/9f3856ba50a7d51467e80f79aec1de87.png) -->
@@ -52,7 +52,7 @@ The Armed Forces of the Republic of Armenia comprise two services: the Army, and
 <p align="center">
 <img src="https://i.gyazo.com/f677fae1f7cb80ca281019367287eeaa.png">
 </p>
-
+<br>
 ### Kombat
 
 ![image](https://i.gyazo.com/1d039bdf9ac4f965c5df0ffc04fc130c.png) -->
