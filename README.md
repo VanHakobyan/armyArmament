@@ -6,7 +6,8 @@
 
 The Armed Forces of the Republic of Armenia comprise two services: the Army, and the Air Force and Air Defense. It was partially formed out of the former Soviet Army forces stationed in the Armenian SSR (mostly units of the 7th Guards Army of the Transcaucasian Military District). Being a landlocked country, Armenia has no navy.
 <br>
-<h3> Soldier</h3>
+### Soldier
+
 ![image](https://i.gyazo.com/1ed68e17a8e69a5fe7aa0d01d9ce9849.png) -->
 ![image](http://vignette1.wikia.nocookie.net/h1z1/images/e/e7/AK47.png/revision/latest?cb=20151027111224&path-prefix=ru)
 +
